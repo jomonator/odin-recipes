@@ -1,1 +1,2 @@
 # odin-recipes
+Hello! This project entails the foundations of HTML to create a 'basic recipe website'. I will, in this excercise, display my brief knowledge in HTML to create a recipe about my favorite dish! Thank you for reading. 
